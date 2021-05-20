@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/juanpelaz/">
   <img align="left" alt="Juan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, I'm Juan Pelaz, a passionate self-taught Full Stack web developer from Spain. I love learning new skills and improving my experience daily.
