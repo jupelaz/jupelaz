@@ -1,13 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/juanpelaz/">
-  <img align="left" alt="Juan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <br />
 
 Hi, I'm Juan Pelaz, a passionate self-taught Full Stack web developer from Spain. I love learning new skills and improving my experience daily.
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@lurconis](https://twitter.com/lurconis);
+- 📫 How to reach me: [@lurconis](https://twitter.com/lurconis);<a href="https://www.linkedin.com/in/juanpelaz/">
+  <img align="left" alt="Juan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 **Languages and Tools:**  
 
