@@ -5,8 +5,8 @@
 Hi, I'm Juan Pelaz, a passionate self-taught Full Stack web developer from Spain. I love learning new skills and improving my experience daily.
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@lurconis](https://twitter.com/lurconis);<a href="https://www.linkedin.com/in/juanpelaz/">
-  <img align="left" alt="Juan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+- 📫 How to reach me: <img align="rigth" alt="Juan's twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="rigth" alt="Juan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 **Languages and Tools:**  
